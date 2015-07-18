@@ -22,6 +22,7 @@ Follow me [**@anuraagdjain**](https://twitter.com/anuraagdjain)
 <img src = "http://i.imgur.com/gBubDfwl.png"> </img>
 
 ###Frameworks Used:
+ - [YouTube iOS Player Helper](https://github.com/youtube/youtube-ios-player-helper)
  - [Alamofire Swift 2.0](https://github.com/Alamofire/Alamofire/tree/swift-2.0)
  - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON/tree/xcode7)
  - [SDWebImage](https://github.com/rs/SDWebImage)
