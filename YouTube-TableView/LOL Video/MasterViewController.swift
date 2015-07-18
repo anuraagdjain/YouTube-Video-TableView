@@ -34,7 +34,7 @@ class MasterViewController: UITableViewController, UISearchBarDelegate {
        
     }
     func get_video(){
-    Alamofire.request(.GET, URLString: "http://draikt.net/video/load.php").responseJSON { (request, response, json, error) in
+    Alamofire.request(.GET, URLString: "http://your-file-php").responseJSON { (request, response, json, error) in
             self.remove_data()
             let jsonObj = JSON(json!)
             for (_,subJson):(String, JSON) in jsonObj["data"] {
